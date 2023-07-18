@@ -1,0 +1,4 @@
+rootProject.name = 'kafka-demo'
+include 'kafka-wikimedia-producer'
+include 'simple-kafka-producer-consumer'
+
